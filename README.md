@@ -1,1 +1,1 @@
-# Laboratory-work-1
+https://github.com/ShyrokovMykola/WebAR-Example
